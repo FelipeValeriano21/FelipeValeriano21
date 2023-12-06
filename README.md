@@ -13,5 +13,4 @@
 
 ## Languages and tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,php,nodejs,python,selenium,git,github,mysql)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,php,nodejs,python,selenium,git,github,mysql,vscode,wordpress)](https://skillicons.dev)
