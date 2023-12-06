@@ -1,6 +1,5 @@
-## 💜 Olá, meu nome é <strong>{seu nome}!</strong>
+## 💜 Olá, meu nome é <strong>Felipe Valeriano!</strong>
 
-> Faça uma breve aprensentação sobre você e a sua área.
 
 🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
 
