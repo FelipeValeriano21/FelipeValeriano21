@@ -1,4 +1,4 @@
-## 💜 Hi, Welcome! I'm <strong>Felipe Valeriano!</strong>
+## 💜 Hi, welcome! I'm <strong>Felipe Valeriano!</strong>
 
 
 🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
