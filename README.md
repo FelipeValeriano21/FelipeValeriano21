@@ -1,9 +1,7 @@
 ## 😁  Hi, welcome! I'm <strong>Felipe Valeriano!</strong>
 
 
-💻 Passionate about tenology
-
-💬 Contact with me now.
+💻 Software developer and student dedicated to continuous learning, achievement-oriented, proactive, deeply engaged, and highly motivated.
 
 ---
 
